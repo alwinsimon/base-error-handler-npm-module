@@ -1,7 +1,7 @@
 {
   "name": "base-error-handler",
   "version": "1.0.0",
-  "description": "",
+  "description": "Common error handling module for easy access.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
@@ -13,9 +13,18 @@
     "update": "npm version patch",
     "publish": "npm run build && npm publish"
   },
-  "keywords": [],
+  "keywords": ["error", "handling", "common", "utilities", "npm", "module", "typescript", "express"],
   "author": "Dr. Alwin Simon",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alwinsimon/errors-npm-module"
+  },
+  "bugs": {
+    "url": "https://github.com/alwinsimon/errors-npm-module/issues"
+  },
+  "homepage": "https://github.com/alwinsimon/errors-npm-module",
+  "private": false,
   "devDependencies": {
     "del-cli": "^5.1.0",
     "typescript": "^5.2.2"
