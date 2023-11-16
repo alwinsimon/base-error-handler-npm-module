@@ -13,7 +13,14 @@
     "update": "npm version patch",
     "publish": "npm run build && npm publish"
   },
-  "keywords": ["error", "handling", "common", "utilities", "npm", "module", "typescript", "express"],
+  "keywords": [
+    "error",
+    "common errors",
+    "error handling",
+    "utilities",
+    "typescript",
+    "express"
+  ],
   "author": "Dr. Alwin Simon",
   "license": "ISC",
   "repository": {
