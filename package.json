@@ -11,7 +11,7 @@
     "clean": "del ./build",
     "build": "npm run clean && tsc",
     "update": "npm version patch",
-    "publish": "npm run build && npm publish"
+    "pub": "npm run build && npm publish"
   },
   "keywords": [
     "error",
