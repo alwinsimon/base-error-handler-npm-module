@@ -25,12 +25,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alwinsimon/errors-npm-module"
+    "url": "https://github.com/alwinsimon/base-error-handler-npm-module"
   },
   "bugs": {
-    "url": "https://github.com/alwinsimon/errors-npm-module/issues"
+    "url": "https://github.com/alwinsimon/base-error-handler-npm-module/issues"
   },
-  "homepage": "https://github.com/alwinsimon/errors-npm-module",
+  "homepage": "https://github.com/alwinsimon/base-error-handler-npm-module",
   "private": false,
   "devDependencies": {
     "del-cli": "^5.1.0",
