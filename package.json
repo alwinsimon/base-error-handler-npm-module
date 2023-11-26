@@ -22,7 +22,7 @@
     "express"
   ],
   "author": "Dr. Alwin Simon",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/alwinsimon/base-error-handler-npm-module"
