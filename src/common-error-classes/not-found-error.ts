@@ -7,7 +7,7 @@ export class NotFoundError extends CustomError {
     // Calling the parent class constructor as this is a constructor of sub-class
     super("Not Found Error.");
 
-    // Since we are extending a built-in class (Error) the following line of cade has to be added
+    // Since we are extending a built-in class (Error) the following line of code has to be added
     Object.setPrototypeOf(this, NotFoundError.prototype);
   }
 
